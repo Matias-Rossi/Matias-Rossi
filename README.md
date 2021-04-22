@@ -19,5 +19,5 @@ En mi tiempo libre, me gusta escuchar música 🎵, salir en bici 🚲, hacer al
 :uk: : Fluent
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matias-Rossi&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matias-Rossi&show_icons=true&theme=dark&hide_rank=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matias-Rossi&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
