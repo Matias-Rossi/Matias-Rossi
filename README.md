@@ -1,7 +1,7 @@
 
 # :wave: Hola! Soy Matías.
 ### 👨‍🎓 Voy a ser Ingeniero en Sistemas de Información algún día.
-Actualmente, estoy estudiando para serlo en la Facultad Regional Buenos Aires de la **Universidad Tecnológica Nacional**.
+Actualmente, para lograrlo, estoy estudiando en la Facultad Regional Buenos Aires de la **Universidad Tecnológica Nacional**.
 
 Entre los lenguajes y herramientas que estudio, se encuentran:
 - HTML/CSS
