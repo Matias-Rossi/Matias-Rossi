@@ -12,7 +12,7 @@ Entre los lenguajes y herramientas que estudio, se encuentran:
 
 ---
 Soy un aficionado a la aviación ✈ y al ferrocarril, y espero el día de mañana ser bombero voluntario 🚒.
-En mi tiempo libre, me gusta escuchar música 🎵, salir en bici 🚲, hacer algún curso en Udemy 📝 e investigar sobre temas que me interesan 🔍.
+En mi tiempo libre, me gusta escuchar música 🎵, hacer gimnasia 🚲, algún curso en Udemy 📝 e investigar sobre temas que me interesan 🔍.
 
 :de: : Deutsches Sprachdiplom Stufe II
 
