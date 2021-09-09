@@ -18,5 +18,5 @@ Soy un aficionado a la aviación ✈, y espero el día de mañana ser bombero vo
 :uk: : Fluent
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matias-Rossi&show_icons=true&theme=dark&hide_rank=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matias-Rossi&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Matias-Rossi&show_icons=true&theme=dark&hide_rank=true&count_private=true&hide_border=true" alt="Matias's github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matias-Rossi&layout=compact&theme=dark&hide_border=true" /></a> 
