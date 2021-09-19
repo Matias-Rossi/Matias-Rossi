@@ -8,7 +8,7 @@ Entre los lenguajes y herramientas que estudio, se encuentran:
 - JavaScript
 - Bootstrap
 - Dart/Flutter
-- C/C++
+- C
 
 ---
 Soy un aficionado a la aviación ✈, y espero el día de mañana ser bombero voluntario 🚒.
