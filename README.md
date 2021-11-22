@@ -4,11 +4,11 @@
 Actualmente, para lograrlo, estoy estudiando en la Facultad Regional Buenos Aires de la **Universidad Tecnológica Nacional**.
 
 Entre los lenguajes y herramientas que estudio, se encuentran:
-- HTML/CSS
-- JavaScript
-- Bootstrap
+
 - Dart/Flutter
 - C
+- Python
+- Haskell (Functional programming)
 
 ---
 Soy un aficionado a la aviación ✈, y espero el día de mañana ser bombero voluntario 🚒.
