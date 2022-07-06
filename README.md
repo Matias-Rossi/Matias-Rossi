@@ -8,10 +8,10 @@ Entre los lenguajes y herramientas que estudio, se encuentran:
 - Dart/Flutter
 - C
 - Python
-- Haskell (Functional programming)
+- Haskell
 
 ---
-Soy un aficionado a la aviación ✈, y espero el día de mañana ser bombero voluntario 🚒.
+Soy un aficionado a la aviación ✈, tengo un particular interés por sistemas de seguridad y señalamiento ferroviario🚦🚄, y espero el día de mañana ser bombero voluntario 🚒.
 
 :de: : Deutsches Sprachdiplom Stufe II
 
