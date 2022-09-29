@@ -3,12 +3,13 @@
 ### 👨‍🎓 Voy a ser Ingeniero en Sistemas de Información algún día.
 Actualmente, para lograrlo, estoy estudiando en la Facultad Regional Buenos Aires de la **Universidad Tecnológica Nacional**.
 
-Entre los lenguajes y herramientas que estudio, se encuentran:
+Entre los lenguajes y herramientas que estudio, en orden de conocimientos, se encuentran:
 
 - Dart/Flutter
-- C
+- Java
+- HTML/CSS/Vanilla JS/jQuery
 - Python
-- Haskell
+- C
 
 ---
 Soy un aficionado a la aviación ✈, tengo un particular interés por sistemas de seguridad y señalamiento ferroviario🚦🚄, y espero el día de mañana ser bombero voluntario 🚒.
