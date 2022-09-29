@@ -5,8 +5,8 @@ Actualmente, para lograrlo, estoy estudiando en la Facultad Regional Buenos Aire
 
 Entre los lenguajes y herramientas que estudio, en orden de conocimientos, se encuentran:
 
-- Dart/Flutter
 - Java
+- Dart/Flutter
 - HTML/CSS/Vanilla JS/jQuery
 - Python
 - C
