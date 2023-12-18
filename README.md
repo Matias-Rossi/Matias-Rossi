@@ -3,6 +3,8 @@
 ### 👨‍🎓 Voy a ser Ingeniero en Sistemas de Información algún día.
 Actualmente, para lograrlo, estoy estudiando en la Facultad Regional Buenos Aires de la **Universidad Tecnológica Nacional**.
 
+Hoy también soy Software Developer en Despegar ✈
+
 Entre los lenguajes y herramientas que estudio, en orden de conocimientos, se encuentran:
 
 - Java (Spring Boot)
