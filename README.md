@@ -14,11 +14,13 @@ Entre los lenguajes y herramientas que estudio, en orden de conocimientos, se en
 - C
 
 ---
-Soy un aficionado a la aviación ✈, tengo un particular interés por sistemas de seguridad y señalamiento ferroviario🚦🚄, y espero el día de mañana ser bombero voluntario 🚒.
+Soy un piloto fanático de la aviación ✈, tengo un particular interés por sistemas de seguridad y señalamiento ferroviario🚦🚄, y espero el día de mañana ser bombero voluntario 🚒.
 
 :de: : Deutsches Sprachdiplom Stufe II
 
 :uk: : Fluent
+
+🛫 PPA
 
 ---
 
