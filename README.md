@@ -20,7 +20,7 @@ Soy un piloto fanático de la aviación ✈, tengo un particular interés por si
 
 :uk: : Fluent
 
-🛫 PPA
+🛫 : PPA
 
 ---
 
